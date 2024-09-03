@@ -45,7 +45,7 @@ def json_to_jsonl(input_file, output_file):
         json.dump(data, outfile)
         outfile.write('\n')
     except Exception as e:
-      print(f"{input_file} is invalid")
+      print(f"{input_file} is invalid because {e}")
 
 # 変換対象ディレクトリ
 directory = '../json/bottles'
