@@ -34,15 +34,18 @@ def json_to_jsonl(input_file, output_file):
   """
 
   with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
-    data = json.load(infile)
-#     remove_full_width_space_and_backslash(data)
-    if isinstance(data, list):
-      for item in data:
-        json.dump(item, outfile)
+    try:
+      data = json.load(infile)
+	#     remove_full_width_space_and_backslash(data)
+      if isinstance(data, list):
+        for item in data:
+          json.dump(item, outfile)
+          outfile.write('\n')
+      else:
+        json.dump(data, outfile)
         outfile.write('\n')
-    else:
-      json.dump(data, outfile)
-      outfile.write('\n')
+    except Exception as e:
+      print(f"{input_file} is invalid")
 
 # 変換対象ディレクトリ
 directory = '../json/bottles'
