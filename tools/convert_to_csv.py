@@ -16,7 +16,7 @@ def remove_full_width_space_and_backslash(data):
 
     if isinstance(data, str):
         # 文字列の場合は置換処理
-        return re.sub(r'　|\\', '', data)
+        return re.sub(r' |\\', '', data)
     elif isinstance(data, list):
         return [remove_full_width_space_and_backslash(item) for item in data]
     elif isinstance(data, dict):
@@ -35,7 +35,7 @@ def json_to_jsonl(input_file, output_file):
 
   with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
     data = json.load(infile)
-    remove_full_width_space_and_backslash(data)
+#     remove_full_width_space_and_backslash(data)
     if isinstance(data, list):
       for item in data:
         json.dump(item, outfile)

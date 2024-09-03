@@ -5,10 +5,10 @@
     "subname": "無濾過生原酒",
     "aminoAcidContent": "",
     "alcoholContent": "17～18",
-    "price": "\1800/\3600",
+    "price": "1800/\3600",
     "award": "",
     "sakeYeast": "協会9号",
-    "brand": "相模灘　無濾過生原酒",
+    "brand": "相模灘 無濾過生原酒",
     "volume": "720ml/1800ml",
     "sakeRiceExceptForKojiMaking": "山田錦",
     "sakeMeterValue": "+2",
@@ -53,7 +53,7 @@
   {
     "_id": "586067418ff1a500110b4fa3",
     "brand": "天青",
-    "subname": "千峰　酒未来",
+    "subname": "千峰 酒未来",
     "type": "純米吟醸",
     "prefecture": "神奈川県",
     "brewery": "熊澤酒造",
@@ -95,12 +95,12 @@
   {
     "_id": "57fe4a2b68595fc7ba677dbb",
     "brand": "いづみ橋",
-    "subname": "恵　青ラベル",
+    "subname": "恵 青ラベル",
     "type": "純米吟醸",
     "prefecture": "神奈川県",
     "brewery": "泉橋酒造",
     "url": "https://www.sake-sennin.com/fbo/web/app.php/user/product/559",
-    "description": "無濾過　１回火入れ　25BY
+    "description": "無濾過 １回火入れ 25BY
 なめらかな飲み口。クリーミーな香り。やさしくまとまった五味の中から爽快な苦味が立ち上がる味わい。 ",
     "starterCulture": "",
     "sakeYeast": "",

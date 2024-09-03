@@ -8,7 +8,7 @@
     "price": "¥3000",
     "award": "",
     "sakeYeast": "栃木酵母",
-    "brand": "開華原酒　みがき竹皮",
+    "brand": "開華原酒 みがき竹皮",
     "volume": "1800ml",
     "sakeRiceExceptForKojiMaking": "あさひの夢・ひとごごち",
     "sakeMeterValue": "+3",
@@ -104,7 +104,7 @@
   {
     "_id": "581d50b9b2aef4001169748b",
     "brand": "仙禽",
-    "subname": "秋あがり　赤とんぼ",
+    "subname": "秋あがり 赤とんぼ",
     "type": "純米",
     "prefecture": "栃木県",
     "brewery": "仙禽酒造",
@@ -129,7 +129,7 @@
     "brewery": "小林酒造",
     "url": "http://sasara.pto.co.jp/kuramoto_list/kobayashi.html",
     "description": "一面の田園風景の中、豊富な地下水の小山市美田地区に建つ小林酒造は、「地元に根差した愛される酒、愛される酒蔵を目指す」という考えのもと、とことん吟醸酒造りにこだわりを持ち、全国に知れ渡る名醸蔵。
-　醸される酒は、マスカットやメロンのような香りを持ち、体に馴染むような優しい酒質を基調とする。（URLから引用）",
+ 醸される酒は、マスカットやメロンのような香りを持ち、体に馴染むような優しい酒質を基調とする。（URLから引用）",
     "sakeYeast": "",
     "sakeRiceExceptForKojiMaking": "山田錦",
     "riceForMakingKoji": "山田錦",
@@ -163,7 +163,7 @@
   {
     "_id": "582314b670f94d0012a9dec2",
     "brand": "大那",
-    "subname": "特別純米　ひやおろし",
+    "subname": "特別純米 ひやおろし",
     "type": "特別純米",
     "prefecture": "栃木県",
     "brewery": "菊の里酒造",
@@ -272,7 +272,7 @@ T?URI封後は御早目に
   {
     "_id": "582fd5fffbda03001200b5b1",
     "brand": "東力士",
-    "subname": "洞窟熟成　ニゴリ　四夏超え",
+    "subname": "洞窟熟成 ニゴリ 四夏超え",
     "type": "本醸造",
     "prefecture": "栃木県",
     "brewery": "島崎酒造",
@@ -351,7 +351,7 @@ T?URI封後は御早目に
   {
     "_id": "5864fe97cbb6c30011a09f78",
     "brand": "若駒",
-    "subname": "五百石80　無加圧搾り",
+    "subname": "五百石80 無加圧搾り",
     "type": "純米",
     "prefecture": "栃木県",
     "brewery": "若駒酒造",
@@ -431,7 +431,7 @@ T?URI封後は御早目に
   {
     "_id": "5869dcbd394da300117ed173",
     "brand": "仙禽",
-    "subname": "ナチュール　キャトル",
+    "subname": "ナチュール キャトル",
     "type": "純米",
     "prefecture": "栃木県",
     "brewery": "仙禽酒造",

@@ -83,7 +83,7 @@
     "price": "",
     "award": "",
     "sakeYeast": "",
-    "brand": "天吹　裏愛山",
+    "brand": "天吹 裏愛山",
     "volume": "",
     "sakeMeterValue": "",
     "mariage": "白身魚のカルパッチョ、浅蜊の酒蒸し、旬の青菜のお浸しなど酒の繊細な味わいを活かすもの。また桜餅など。 ",
@@ -149,7 +149,7 @@
   {
     "_id": "58156997d75ee80011575d4d",
     "brand": "東鶴",
-    "subname": "純米吟醸山田錦　荒走り生",
+    "subname": "純米吟醸山田錦 荒走り生",
     "type": "純米吟醸",
     "prefecture": "佐賀県",
     "brewery": "東鶴酒造",
@@ -170,7 +170,7 @@
   {
     "_id": "5819cd0cf0eff70011268d1c",
     "brand": "東鶴",
-    "subname": "特別純米　雄町　生酛造り",
+    "subname": "特別純米 雄町 生酛造り",
     "type": "特別純米",
     "prefecture": "佐賀県",
     "brewery": "東鶴酒造",
@@ -228,7 +228,7 @@
   {
     "_id": "5826e688adf3680012574f63",
     "brand": "天吹",
-    "subname": "裏生酛　純米吟醸　生",
+    "subname": "裏生酛 純米吟醸 生",
     "type": "純米吟醸",
     "prefecture": "佐賀県",
     "brewery": "天吹酒造",
@@ -351,7 +351,7 @@
   {
     "_id": "591436d380c1800011c5cfaa",
     "brand": "東鶴",
-    "subname": "さがの華　無濾過生",
+    "subname": "さがの華 無濾過生",
     "type": "純米吟醸",
     "prefecture": "佐賀県",
     "brewery": "東鶴酒造",
@@ -370,7 +370,7 @@
   {
     "_id": "591594d53970ba001108cf1e",
     "brand": "東鶴",
-    "subname": "特別純米　雄町　荒走り　生",
+    "subname": "特別純米 雄町 荒走り 生",
     "type": "特別純米",
     "prefecture": "佐賀県",
     "brewery": "東鶴酒造",
@@ -389,7 +389,7 @@
   {
     "_id": "5a21240a2df9100012d4476e",
     "brand": "七田",
-    "subname": "純米七割五分磨き　無濾過生　山田錦",
+    "subname": "純米七割五分磨き 無濾過生 山田錦",
     "type": "純米",
     "prefecture": "佐賀県",
     "brewery": "天山酒造",
